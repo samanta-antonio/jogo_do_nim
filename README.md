@@ -1,5 +1,7 @@
 # Jogo do NIM
 
+Desafio proposto pelo curso Introdução à Ciência da Computação com Python Parte 1, oferecido pela USP na plataforma Coursera.
+
 # Objetivo
 Você deverá escrever um programa na linguagem Python, versão 3, que permita a uma "vítima" jogar o NIM contra o computador. O computador, é claro, deverá seguir a estratégia vencedora descrita acima.
 
